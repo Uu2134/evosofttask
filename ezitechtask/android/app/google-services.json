@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931004742946",
+    "project_id": "attendancesystem-9fd12",
+    "storage_bucket": "attendancesystem-9fd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931004742946:android:449118eac5280b3b93397b",
+        "android_client_info": {
+          "package_name": "com.example.ezitechtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtL3sfHrKUk58vlkevfl5_PAeXbCC7b8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
